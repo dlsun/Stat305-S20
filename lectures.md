@@ -1,12 +1,12 @@
 ---
-title: STAT 350 Summer 2020
+title: STAT 305 Summer 2020
 ---
 # Lectures
 
 ## Monday, June 22
 
-1. Read [the syllabus](http://dlsun.github.io/Stat350-S20/), and complete the syllabus quiz.
-2. Learn about ["Why Study Probability? For Electrical Engineers"](https://dlsun.github.io/probability/index.html#for-electrical-engineers).
+1. Read [the syllabus](http://dlsun.github.io/Stat305-S20/), and complete the syllabus quiz.
+2. Learn about ["Why Study Probability? For Statisticians"](https://dlsun.github.io/probability/index.html#for-statisticians).
 3. Learn about ["Probability and Counting"](https://dlsun.github.io/probability/counting.html), then measure your understanding.
 4. Learn about ["The Factorial"](https://dlsun.github.io/probability/factorial.html), then measure your understanding.
 5. Complete the simulation activity.
