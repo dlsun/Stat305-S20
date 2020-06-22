@@ -6,10 +6,10 @@ title: STAT 305 Summer 2020
 ## Monday, June 22
 
 1. Read [the syllabus](http://dlsun.github.io/Stat305-S20/), and complete the [syllabus quiz](https://canvas.calpoly.edu/courses/25458/assignments/67212).
-2. Learn about ["Why Study Probability? For Statisticians"](https://dlsun.github.io/probability/index.html#for-statisticians).
+2. Learn about ["Why Study Probability? For Statisticians"](https://colab.research.google.com/github/dlsun/Stat305-S20/blob/master/colabs/Why_Study_Probability%3F_For_Statisticians.ipynb).
 3. Learn about ["Probability and Counting"](https://dlsun.github.io/probability/counting.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/67219).
 4. Learn about ["The Factorial"](https://dlsun.github.io/probability/factorial.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/67220).
-5. Complete the simulation activity.
+5. Complete the [simulation activity](https://forms.gle/nwhzhrQ1JtREeTq47).
 
 ## Tuesday, June 23
 
