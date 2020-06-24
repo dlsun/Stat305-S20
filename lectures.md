@@ -16,17 +16,17 @@ title: STAT 305 Summer 2020
 
 ## Tuesday, June 23
 
-1. Analyze [the results from yesterday's simulation](https://colab.research.google.com/github/dlsun/Stat350-S20/blob/master/colabs/Analyzing_Simulation_Activity_6_22.ipynb).
+1. Look at [the results from yesterday's simulation](https://colab.research.google.com/github/dlsun/Stat350-S20/blob/master/colabs/Analyzing_Simulation_Activity_6_22.ipynb).
 2. Learn about ["Box Models"](https://dlsun.github.io/probability/box-models.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/67662).
 3. Learn about ["Sampling with Replacement"](https://dlsun.github.io/probability/replacement.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/67669).
 4. Complete the [simulation activity](https://forms.gle/tLQCnF7ngNh4SF1i8).
 
 ## Wednesday, June 24
 
-1. Analyze the results from yesterday's simulation.
-2. Learn about "The Complement Rule", then measure your understanding.
-3. Learn about "Conditional Probability", then measure your understanding.
-4. Learn about "Independence", then measure your understanding.
+1. Look at [the results from yesterday's simulation](mere_simulation.png).
+2. Learn about ["Double Counting"](https://dlsun.github.io/probability/double-counting.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/67864).
+3. Learn about ["Conditional Probability"](https://dlsun.github.io/probability/conditional.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/67865).
+4. Learn about ["Independence"](https://dlsun.github.io/probability/independence.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/67866).
 5. Complete the simulation activity.
 
 ## Thursday, June 25
