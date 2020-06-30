@@ -49,3 +49,8 @@ title: STAT 305 Summer 2020
 2. Complete the [simulation activity](https://canvas.calpoly.edu/courses/25458/assignments/68812).
 3. (Optional) Complete [Case Study 1](https://colab.research.google.com/drive/10P6JPVswCnySqycFPPxPZXocTim5xMmI).
 
+## Tuesday, June 29
+
+1. Learn about ["The Binomial Distribution"](https://dlsun.github.io/probability/binomial.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/69102).
+2. Follow up on yesterday's [simulation activity](https://canvas.calpoly.edu/courses/25458/assignments/69113).
+3. Complete the [simulation activity](https://forms.gle/hzhkP3oW9o7CRA98A).
