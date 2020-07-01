@@ -57,7 +57,7 @@ so you do not need to install any software on your own machine.
 2. Follow up on yesterday's [simulation activity](https://canvas.calpoly.edu/courses/25458/assignments/69113).
 3. Complete the [simulation activity](https://forms.gle/hzhkP3oW9o7CRA98A).
 
-## Wednesday, June 30
+## Wednesday, July 1
 
 1. Learn about ["The Geometric Distribution"](https://dlsun.github.io/probability/geometric.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/69498). 
 2. Learn about ["The Negative Binomial Distribution"](https://dlsun.github.io/probability/negative-binomial.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/69501). 
