@@ -79,13 +79,13 @@ so you do not need to install any software on your own machine.
 2. Complete the [simulation activity](https://forms.gle/XDHcy3bTenwtp6eH9).
 3. Read instructions for [Exam 1](https://dlsun.github.io/Stat305-S20/exam1), which is this Friday, July 10.
 
-## Tuesday, July 6
+## Tuesday, July 7
 
 1. Learn about ["Marginal Distributions"](https://dlsun.github.io/probability/marginal-discrete.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/100576).
 2. Learn about ["Conditional Distributions"](https://dlsun.github.io/probability/conditional-discrete.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/100583).
 3. Analyze the [simulation results](https://canvas.calpoly.edu/courses/25458/assignments/101839).
 
-## Wednesday, July 7
+## Wednesday, July 8
 
 1. Learn about ["Marginal Distributions"](https://dlsun.github.io/probability/sums-discrete.html), then [measure your understanding](https://canvas.calpoly.edu/courses/25458/assignments/103152).
 2. Fill out [this form for Exam 1](https://forms.gle/P5CCPrEu7nyu6ivh9).
