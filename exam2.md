@@ -7,7 +7,7 @@ title: STAT 305 Summer 2020
 
 - A link to a PDF containing the exam questions will be sent to your `@calpoly.edu` e-mail address at 12 PM on Friday, July 31. 
 Every student will get a different version of the exam, so make sure that you check your own e-mail. (Do not ask a friend to send you 
-their exam because your answers will be graded according to the exam that I sent you.)
+their exam because your answers will be graded according to the version that I sent you.)
 - You will only be able to view this PDF in your browser. You will not be able to download or print this PDF. I recommend that you 
 have several sheets of blank paper ready, so that you can work on the problems.
 - The exam will have 15 questions. The answer to every question is a number. 
@@ -28,9 +28,9 @@ If you are taking pictures with your phone, please enhance and align the images 
 That includes: other students, the TA, tutors, family members, people on Reddit, etc. 
     - No posting exam questions on the Internet. Remember that every student will have a unique exam. 
 If you post questions from your exam, I will know that you did it and be able to prove it. You are equally
-responsible if someone else posts questions from your exam. That is why it is important that you do not share the 
-link to your exam with anyone else.
-- Violation of either rule will result in an automatic 0% on this exam and a report to the Office of Student 
+responsible if someone else posts questions from your exam. That is why it is important that you do not share 
+your exam questions with anyone else.
+- Violation of either rule will result in an automatic grade of F in the course and a report to the Office of Student 
 Rights and Responsibilities (OSRR).
 
 ## After the Exam
