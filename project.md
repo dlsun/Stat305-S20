@@ -1,6 +1,9 @@
 ---
 title: STAT 305 Summer 2020
 ---
+
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
 # Final Project Info
 
 ## Overview
