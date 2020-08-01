@@ -4,8 +4,6 @@ mathjax: true
 title: STAT 305 Summer 2020
 ---
 
-
-
 # Final Project Info
 
 ## Overview
