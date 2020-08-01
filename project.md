@@ -1,8 +1,12 @@
 ---
+layout: post
+mathjax: true
 title: STAT 305 Summer 2020
 ---
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML" type="text/javascript"></script>
+{% include mathjax.html %}
+
+
 
 # Final Project Info
 
