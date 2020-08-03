@@ -203,7 +203,7 @@ The activities for today are tedious but are manageable if you divide up the wor
 You are encouraged to, but not required to, work with a partner on the lessons for the rest of the course. This partner can be, but does not have to be, 
 your final project partner.
 
-1. [Notebook 1. The Bias of an Estimator](https://colab.research.google.com/github/dlsun/Stat305-S20/blob/master/colab/notebooks/1_The_Bias_of_an_Estimator.ipynb). (Submission instructions inside.)
+1. [Notebook 1. The Bias of an Estimator](https://colab.research.google.com/github/dlsun/Stat305-S20/blob/master/colabs/notebooks/1_The_Bias_of_an_Estimator.ipynb). (Submission instructions inside.)
 2. Notebook 1 should help you make progress on your [final project](https://dlsun.github.io/Stat305-S20/project).
 
 ## Tuesday, August 4
