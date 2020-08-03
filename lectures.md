@@ -197,3 +197,32 @@ The activities for today are tedious but are manageable if you divide up the wor
 
 1. Exam 2 from 12 PM to 2 PM. Make sure you have reviewed [the instructions here](https://dlsun.github.io/Stat305-S20/exam2).
 2. [Final Project instructions](https://dlsun.github.io/Stat305-S20/project)
+
+## Monday, August 3
+
+You are encouraged to, but not required to, work with a partner on the lessons for the rest of the course. This partner can be, but does not have to be, 
+your final project partner.
+
+1. [Notebook 1. The Bias of an Estimator](https://colab.research.google.com/github/dlsun/Stat305-S20/blob/master/colab/notebooks/1_The_Bias_of_an_Estimator.ipynb). (Submission instructions inside.)
+2. Notebook 1 should help you make progress on your [final project](https://dlsun.github.io/Stat305-S20/project).
+
+## Tuesday, August 4
+
+1. Peer reviews
+2. Notebook 2. More on Bias.
+
+## Wednesday, August 5
+
+1. Peer reviews
+2. Notebook 3. Estimating the Variance.
+
+## Thursday, August 6
+
+1. Peer reviews
+2. Notebook 4. Mean-squared error.
+
+## Friday, August 7
+
+1. Peer reviews
+2. Notebook 5. The principle of maximum likelihood.
+3. Exam 2 Case for Partial Credit due.
