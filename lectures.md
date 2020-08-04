@@ -203,18 +203,19 @@ The activities for today are tedious but are manageable if you divide up the wor
 You are encouraged to, but not required to, work with a partner on the lessons for the rest of the course. This partner can be, but does not have to be, 
 your final project partner.
 
-1. [Notebook 1. The Bias of an Estimator](https://colab.research.google.com/github/dlsun/Stat305-S20/blob/master/colabs/notebooks/1_The_Bias_of_an_Estimator.ipynb). (Submission instructions inside.)
+1. Complete [Notebook 1. The Bias of an Estimator](https://colab.research.google.com/github/dlsun/Stat305-S20/blob/master/colabs/notebooks/1_The_Bias_of_an_Estimator.ipynb). (Submission instructions inside.)
 2. Notebook 1 should help you make progress on your [final project](https://dlsun.github.io/Stat305-S20/project).
 
 ## Tuesday, August 4
 
-1. Peer reviews
-2. Notebook 2. More on Bias.
+1. [Peer review Notebook 1](https://canvas.calpoly.edu/courses/25458/assignments/111116). If someone's answer 
+differs from your own, and you are not sure why, please ask on the Discord server!
+2. Complete [Notebook 2. More on Bias.](https://colab.research.google.com/github/dlsun/Stat305-S20/blob/master/colabs/notebooks/STAT_305_Notebook_2_More_on_Bias.ipynb). (Submission instructions inside.)
 
 ## Wednesday, August 5
 
 1. Peer reviews
-2. Notebook 3. Estimating the Variance.
+2. Complete Notebook 3. Estimating the Variance.
 
 ## Thursday, August 6
 
