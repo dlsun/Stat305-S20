@@ -210,7 +210,9 @@ your final project partner.
 
 1. [Peer review Notebook 1](https://canvas.calpoly.edu/courses/25458/assignments/111116). If someone's answer 
 differs from your own, and you are not sure why, please ask on the Discord server!
-2. Complete [Notebook 2. More on Bias.](https://colab.research.google.com/github/dlsun/Stat305-S20/blob/master/colabs/notebooks/STAT_305_Notebook_2_More_on_Bias.ipynb). (Submission instructions inside.)
+2. Read [this textbook excerpt](https://github.com/dlsun/Stat305-S20/raw/master/MeasurementError.pdf) about how the 
+weight of a kilogram is determined.
+3. Complete [Notebook 2. More on Bias.](https://colab.research.google.com/github/dlsun/Stat305-S20/blob/master/colabs/notebooks/STAT_305_Notebook_2_More_on_Bias.ipynb). (Submission instructions inside.)
 
 ## Wednesday, August 5
 
