@@ -216,13 +216,15 @@ weight of a kilogram is determined.
 
 ## Wednesday, August 5
 
-1. Peer reviews
-2. Complete Notebook 3. Estimating the Variance.
+1. [Peer review Notebook 2](https://canvas.calpoly.edu/courses/25458/assignments/111361). If someone's answer 
+differs from your own, and you are not sure why, please ask on the Discord server!
+2. Complete [Notebook 3. Estimating the Variance](https://colab.research.google.com/github/dlsun/Stat305-S20/blob/master/colabs/notebooks/STAT_305_Notebook_3_Estimating_the_Variance.ipynb).
 
 ## Thursday, August 6
 
-1. Peer reviews
-2. Notebook 4. Mean-squared error.
+1. [Peer review Notebook 3](https://canvas.calpoly.edu/courses/25458/assignments/111815). If someone's answer 
+differs from your own, and you are not sure why, please ask on the Discord server!
+2. Notebook 4. Mean-Squared Error.
 
 ## Friday, August 7
 
