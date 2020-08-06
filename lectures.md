@@ -222,7 +222,8 @@ differs from your own, and you are not sure why, please ask on the Discord serve
 
 ## Thursday, August 6
 
-1. Many of you struggled with Notebook 3. Please review the solutions here.
+1. Many of you struggled with Notebook 3. Please review [the solutions](https://colab.research.google.com/drive/1uDdULNKkuzDaPBt-XH5YZNdw1czj6ivc?usp=sharing), 
+especially to Questions 1, 3, and 4.
 2. Complete [Notebook 4. Comparing Unbiased Estimators](https://colab.research.google.com/github/dlsun/Stat305-S20/blob/master/colabs/notebooks/STAT_305_Notebook_4_Comparing_Unbiased_Estimators.ipynb).
 
 ## Friday, August 7
