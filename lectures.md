@@ -229,6 +229,6 @@ especially to Questions 1, 3, and 4.
 ## Friday, August 7
 
 1. [Peer review Notebook 4](https://canvas.calpoly.edu/courses/25458/assignments/112160).
-2. Complete [Notebook 5. Mean-Squared Error](https://colab.research.google.com/github/dlsun/Stat305-S20/blob/master/colabs/notebooks/STAT_305_Notebook_5_Mean_Squared_Error.ipynb). (This notebook does not need to be turned in, but these questions are 
-the ones you need to answer in your final project!)
+2. Complete [Notebook 5. Mean-Squared Error](https://colab.research.google.com/github/dlsun/Stat305-S20/blob/master/colabs/notebooks/STAT_305_Notebook_5_Mean_Squared_Error.ipynb). (You need to submit 
+your answer to Question 3 in [this Canvas quiz](https://canvas.calpoly.edu/courses/25458/assignments/112458).
 3. Exam 2 Case for Partial Credit due.
