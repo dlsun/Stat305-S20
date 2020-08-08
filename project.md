@@ -22,8 +22,8 @@ Consider the following scenarios:
     - $\hat p_2 = \frac{X + 2}{n+4}$
     - $\hat p_3 = \sqrt{\frac{X(X-1)}{n(n-1)}}$ (This estimator is motivated by [Lesson 24](https://dlsun.github.io/probability/lotus.html), 
     where we showed that $E[X(X-1)] = n(n-1)p^2$. Equating $X(X-1)$ to this expected value and solving for $p$ yields this estimator.)
-2. $X_1, X_2, \ldots, X_n$ are i.i.d. $\text{Normal}(\mu, \sqrt{\mu})$. (That is, the variance equals the mean: $\sigma^2 = \mu$.) 
-Consider the following estimators of $p/4:
+2. $X_1, X_2, \ldots, X_n$ are i.i.d. $\text{Normal}(\mu, \sigma=\sqrt{\mu})$. (That is, the variance equals the mean: $\sigma^2 = \mu$.) 
+Consider the following estimators of $\mu$:
     - $\hat\mu_1 = \bar X = \frac{\sum_{i=1}^n X_i}{n}$
     - $\hat\mu_2 = S^2 = \frac{\sum_{i=1}^n (X_i - \bar X)^2}{n-1}$
     - $\hat\mu_{\text{MLE}} = $ ???
