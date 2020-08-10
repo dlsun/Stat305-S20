@@ -232,3 +232,7 @@ especially to Questions 1, 3, and 4.
 2. Complete [Notebook 5. Mean-Squared Error](https://colab.research.google.com/github/dlsun/Stat305-S20/blob/master/colabs/notebooks/STAT_305_Notebook_5_Mean_Squared_Error.ipynb). (You need to submit 
 your answer to Question 3 in [this Canvas quiz](https://canvas.calpoly.edu/courses/25458/assignments/112458).
 3. Exam 2 Case for Partial Credit due.
+
+## Monday, August 10
+
+1. Complete [Notebook 6. The Maximum Likelihood Principle](https://colab.research.google.com/github/dlsun/Stat305-S20/blob/master/colabs/notebooks/STAT_305_Notebook_6_The_Maximum_Likelihood_Principle.ipynb). (Submission instructions inside.)
