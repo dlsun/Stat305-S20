@@ -236,3 +236,25 @@ your answer to Question 3 in [this Canvas quiz](https://canvas.calpoly.edu/cours
 ## Monday, August 10
 
 1. Complete [Notebook 6. The Maximum Likelihood Principle](https://colab.research.google.com/github/dlsun/Stat305-S20/blob/master/colabs/notebooks/STAT_305_Notebook_6_The_Maximum_Likelihood_Principle.ipynb). (Submission instructions inside.)
+
+## Tuesday, August 11
+
+1. [Peer review Notebook 6](https://canvas.calpoly.edu/courses/25458/assignments/111116).
+2. Complete [Notebook 7. The Calculus of Maximum Likelihood](https://colab.research.google.com/github/dlsun/Stat305-S20/blob/master/colabs/notebooks/STAT_305_Notebook_7_The_Calculus_of_Maximum_Likelihood.ipynb).
+3. Notebook 6 should help you make progress on your [final project](https://dlsun.github.io/Stat305-S20/project).
+
+## Wednesday, August 12
+
+1. [Peer review Notebook 7](https://canvas.calpoly.edu/courses/25458/assignments/113387).
+2. Complete Notebook 8. Maximum Likelihood for Continuous Random Variables.
+3. Calculate the MLEs for the two scenarios on your [final project](https://dlsun.github.io/Stat305-S20/project).
+
+## Thursday, August 13
+
+1. Peer review Notebook 8.
+2. Complete Notebook 9. The Idea of Confidence.
+
+## Friday, August 14
+
+1. Peer review Notebook 9.
+2. Complete Notebook 10. Confidence Intervals in Practice.
