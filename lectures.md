@@ -246,7 +246,7 @@ your answer to Question 3 in [this Canvas quiz](https://canvas.calpoly.edu/cours
 ## Wednesday, August 12
 
 1. [Peer review Notebook 7](https://canvas.calpoly.edu/courses/25458/assignments/113387).
-2. Complete Notebook 8. Maximum Likelihood for Continuous Random Variables.
+2. Complete [Notebook 8. Maximum Likelihood for Continuous Random Variables](https://colab.research.google.com/github/dlsun/Stat305-S20/blob/master/colabs/notebooks/STAT_305_Notebook_8_Maximum_Likelihood_for_Continuous_Random_Variables.ipynb).
 3. Calculate the MLEs for the two scenarios on your [final project](https://dlsun.github.io/Stat305-S20/project).
 
 ## Thursday, August 13
