@@ -252,9 +252,8 @@ your answer to Question 3 in [this Canvas quiz](https://canvas.calpoly.edu/cours
 ## Thursday, August 13
 
 1. Peer review Notebook 8.
-2. Complete Notebook 9. The Idea of Confidence.
+2. Complete [Notebook 9. The Idea of Confidence](https://colab.research.google.com/github/dlsun/Stat305-S20/blob/master/colabs/notebooks/STAT_305_Notebook_9_The_Idea_of_Confidence.ipynb). Check your answers using [this Canvas quiz](https://canvas.calpoly.edu/courses/25458/assignments/114240).
 
 ## Friday, August 14
 
-1. Peer review Notebook 9.
-2. Complete Notebook 10. Confidence Intervals in Practice.
+1. Complete Notebook 10. Confidence Intervals in Practice.
