@@ -256,4 +256,5 @@ your answer to Question 3 in [this Canvas quiz](https://canvas.calpoly.edu/cours
 
 ## Friday, August 14
 
-1. Complete Notebook 10. Confidence Intervals in Practice.
+1. Complete [Notebook 10. Confidence Intervals in Practice](https://colab.research.google.com/github/dlsun/Stat305-S20/blob/master/colabs/notebooks/STAT_305_Notebook_10_Confidence_Intervals_in_Practice.ipynb).
+2. Fill out final project survey.
