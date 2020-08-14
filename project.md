@@ -35,7 +35,8 @@ For each scenario:
 2. Calculate the bias, variance, and mean-squared error of each estimator (as a function of the unknown parameter). Graph these functions. 
 Which estimator is best? (For some estimators, you will be able to calculate the bias, variance, and MSE exactly. For others, 
 you have to use simulation.)
-3. If possible, form a 95% confidence interval for each parameter.
+3. Explain how you would construct a 95% confidence interval for each parameter. Evaluate the coverage probability of this interval 
+using a simulation study.
     
 ## Deliverables
 
