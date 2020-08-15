@@ -264,4 +264,4 @@ submitted [on Canvas](https://canvas.calpoly.edu/courses/25458/assignments/11453
 
 ## Friday, August 21
 
-Final Project Presentation Session 4-6 PM
+Final Project Presentation Session 4-5 PM
