@@ -27,7 +27,9 @@ Consider the following scenarios:
 Consider the following estimators of the parameter $\mu$:
     - $\hat\mu_1 = \bar X = \frac{\sum_{i=1}^n X_i}{n}$
     - $\hat\mu_2 = S^2 = \frac{\sum_{i=1}^n (X_i - \bar X)^2}{n-1}$
-    - $\hat\mu_{\text{MLE}} = $ ???
+    - $\hat\mu_{\text{MLE}} = $ ??? (The algebra for deriving the MLE is messy, but 
+    the answer ends up being quite simple in the end. If you use Wolfram Alpha, it might 
+    help to simplify the expressions a bit, letting $a = \sum X_i$ and $b = \sum X_i^2$.)
     
 For each scenario:
 
