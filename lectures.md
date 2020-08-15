@@ -258,9 +258,10 @@ your answer to Question 3 in [this Canvas quiz](https://canvas.calpoly.edu/cours
 
 1. Complete [Notebook 10. Confidence Intervals in Practice](https://colab.research.google.com/github/dlsun/Stat305-S20/blob/master/colabs/notebooks/STAT_305_Notebook_10_Confidence_Intervals_in_Practice.ipynb).
 2. You and your project partner (if applicable) should add yourselves to [one of the Final Project Groups on Canvas](https://canvas.calpoly.edu/courses/25458/groups).
-3. Fill out [project survey](https://forms.gle/X47cUMjhwtEsJmkz6). Note that your final project materials should be submitted [on Canvas](https://canvas.calpoly.edu/courses/25458/assignments/114532) before **Friday, August 21 at 12 PM**.
-4. Work on your [final project](https://dlsun.github.io/Stat305-S20/project), due next week.
+3. Fill out [project survey](https://forms.gle/X47cUMjhwtEsJmkz6). 
+4. Work on your [final project](https://dlsun.github.io/Stat305-S20/project). Note that your final project materials should be 
+submitted [on Canvas](https://canvas.calpoly.edu/courses/25458/assignments/114532) before **Friday, August 21 at 12 PM**.
 
 ## Friday, August 21
 
-Final Project Presentation Session 12-3 PM
+Final Project Presentation Session 4-6 PM
