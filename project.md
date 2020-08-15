@@ -50,4 +50,21 @@ itself is a video, you may skip this step.)
 
 ## Grading
 
-Grading will be based on correctness, clarity, and aesthetics.
+Grading will be based on the following rubric:
+
+- Correctness (100 points): 50 points for each scenario, based on...
+    - Calculation of MLE
+    - Graph of the bias, variance and MSE of the three estimators, either by calculation or by simulation
+    - Construct a reasonable confidence interval and evaluate its coverage probability in a simulation
+    - It is possible to go above and beyond and earn extra credit, if you do additional work related to these scenarios.
+- Clarity (100 points)
+    - Are topics ordered in a logical way?
+    - Are the verbal explanations clear and concise?
+    - Does the lesson strike the right balance of equations, text, and graphics? 
+    (All three are necessary. But too much of one is not desirable.)
+- Aesthetics and Presentation (100 points)
+    - Does the lesson capture the listener's interest?
+    - Is the lesson visually appealing?
+    - For group projects, both partners should talk equally in the presentation. 
+    (It is not okay to have one person present one scenario and the other person present the other.) 
+    One suggestion is to frame the presentation as a dialogue or conversation.
