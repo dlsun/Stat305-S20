@@ -65,6 +65,7 @@ Grading will be based on the following rubric:
 - Aesthetics and Presentation (100 points)
     - Does the lesson capture the listener's interest?
     - Is the lesson visually appealing?
+    - Is technical content (e.g., equations) formatted in a way that is easy for readers to read?
     - For group projects, both partners should talk equally in the presentation. 
     (It is not okay to have one person present one scenario and the other person present the other.) 
     One suggestion is to frame the presentation as a dialogue or conversation.
